@@ -1,1 +1,1 @@
-# Easy-Editor
+# Easy-Editor wasd
