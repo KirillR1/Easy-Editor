@@ -1,1 +1,1 @@
-# Easy-Editor wasd
+# Easy-Editor Python
